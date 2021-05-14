@@ -1,0 +1,8 @@
+{
+    "build": {
+        "env": {
+            "APIKEY": "@ytplaylist-key",
+            "PLAYLIST": "@ytplaylist-playlist"
+        }
+    }
+}
